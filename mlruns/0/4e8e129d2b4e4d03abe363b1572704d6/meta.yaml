@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajwalamin/Documents/Development/MLOps/end-to-end-mlflow/mlruns/0/4e8e129d2b4e4d03abe363b1572704d6/artifacts
+end_time: 1716230498006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e8e129d2b4e4d03abe363b1572704d6
+run_name: dashing-shoat-648
+run_uuid: 4e8e129d2b4e4d03abe363b1572704d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716230495941
+status: 3
+tags: []
+user_id: prajwalamin

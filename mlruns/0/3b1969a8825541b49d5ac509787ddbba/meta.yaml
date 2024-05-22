@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajwalamin/Documents/Development/MLOps/end-to-end-mlflow/mlruns/0/3b1969a8825541b49d5ac509787ddbba/artifacts
+end_time: 1716230246085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b1969a8825541b49d5ac509787ddbba
+run_name: traveling-chimp-417
+run_uuid: 3b1969a8825541b49d5ac509787ddbba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716230243632
+status: 3
+tags: []
+user_id: prajwalamin

@@ -1,6 +1,9 @@
 pandas
 mlflow
 notebook
+chardet
+packaging
+python-dotenv
 numpy 
 scikit-learn
 matplotlib

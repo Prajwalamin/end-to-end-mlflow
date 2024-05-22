@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/prajwalamin/Documents/Development/MLOps/end-to-end-mlflow/mlruns/0/94f66c5e70874e23838c76de2799de17/artifacts
+end_time: 1716232925893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f66c5e70874e23838c76de2799de17
+run_name: gentle-elk-707
+run_uuid: 94f66c5e70874e23838c76de2799de17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716232923708
+status: 3
+tags: []
+user_id: prajwalamin
